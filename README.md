@@ -1,0 +1,4 @@
+cppalgo
+=======
+
+C++ algorithms library
