@@ -11,7 +11,9 @@
 
 /*
 // Find the length of the longest common subsequence
-// of sequences x and y
+// of sequences x and y.
+// Complexity: O(x.length() * y.length())
+// Memory: O(x.length() * y.length())
 */
 std::size_t lcs_length(const std::string& x, const std::string& y)
 {
