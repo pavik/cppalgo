@@ -1,0 +1,14 @@
+Design
+ - windows calculator, paint.
+ 
+System programming
+ - how to run programm without OS;
+ - how microprocessor works.
+ - memory for static variables, dynamically allocated memory, stack.
+ 
+Encodings, code pages and unicode
+
+STL containers, algorithms
+
+How to reduce dependencies between source files in order to reduce
+compilation time when header files have changed
