@@ -12,3 +12,13 @@ STL containers, algorithms
 
 How to reduce dependencies between source files in order to reduce
 compilation time when header files have changed
+
+Inheritance: interface/implementation
+class Foo
+{
+    virtual void method1() = 0;
+	virtual void method2() {};
+	void method3() {};
+};
+
+How to call pure virtual function? Write code please.
