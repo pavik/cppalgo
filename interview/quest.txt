@@ -22,3 +22,7 @@ class Foo
 };
 
 How to call pure virtual function? Write code please.
+
+Pointers, references.
+
+Type cast.
