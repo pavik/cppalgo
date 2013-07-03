@@ -26,3 +26,7 @@ How to call pure virtual function? Write code please.
 Pointers, references.
 
 Type cast.
+
+Exceptions handling in constructors and destructors.
+
+Temporary objects overhead when throwing exceptions: by value, by reference, by pointer.
