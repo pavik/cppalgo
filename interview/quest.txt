@@ -21,6 +21,8 @@ class Foo
 	void method3() {};
 };
 
+What does constructor do?
+Describe algorithm of virtual function call.
 How to call pure virtual function? Write code please.
 
 Pointers, references.
