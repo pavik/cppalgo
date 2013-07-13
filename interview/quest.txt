@@ -29,4 +29,16 @@ Type cast.
 
 Exceptions handling in constructors and destructors.
 
+When temporary objects appears? (implicit conversions, return statement, exceptions).
 Temporary objects overhead when throwing exceptions: by value, by reference, by pointer.
+
+Deffered/lazy evaluations.
+Consider example, which algorithm will effective here:
+template<class Numerical>
+NumberCollerction
+{
+public:
+    Numerical min() const;
+    Numerical max() const;
+    Numerical avg() const;
+};
