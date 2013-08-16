@@ -56,3 +56,5 @@ Smart pointers: share, scope, weak.
 Describe simple implementation of reference count strategy, for example for class string.
 
 Describe concept of proxy classes. What for they need? Examples?
+
+Design algorithm to divide date period [from; to] by intervals of length n days, n > 0 (time is in unix format).
