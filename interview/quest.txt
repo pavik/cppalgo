@@ -58,3 +58,5 @@ Describe simple implementation of reference count strategy, for example for clas
 Describe concept of proxy classes. What for they need? Examples?
 
 Design algorithm to divide date period [from; to] by intervals of length n days, n > 0 (time is in unix format).
+
+Write condition to check if date ranges [a1;b1] and [a2; b2] overlapped.
